@@ -1,5 +1,5 @@
 package calculator;
-
+//三角形的计算
 import java.awt.GridLayout;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;

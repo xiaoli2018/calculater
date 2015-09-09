@@ -74,8 +74,8 @@ public class CalculatorWindow extends JFrame implements ActionListener, ItemList
 	pCenter.add("0", controlPanel);
 	pCenter.add("1", new RectanglePanel());
 	pCenter.add("2", new CirclePanel());
-//	pCenter.add("3", new TrianglePanel());
-//	pCenter.add("4", new CylinderPanel());
+	pCenter.add("3", new TrianglePanel());
+	pCenter.add("4", new CylinderPanel());
 
 	setBounds(100, 100, 700, 300);
 	setResizable(false);
